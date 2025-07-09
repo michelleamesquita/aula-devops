@@ -1,3 +1,4 @@
 requests
 flask
 flask-swagger-ui
+pytest
